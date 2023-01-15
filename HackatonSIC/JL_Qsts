@@ -1,0 +1,171 @@
+{
+	
+	"data":
+	[
+		{
+			"question": "¿Por qué debería contratar sus servicios?",
+			"answer": "Contamos con más de 10 años de experiencia entregando soluciones tecnológicas únicas en todas las industrias y áreas de desarrollo. Nos enfocamos especialmente en generar resultados asombrosos en 10 áreas principales de desarrollo pero podemos brindar experiencias personalizadas  sin importar sus requisitos tecnológicos.",
+			"context": ["Info de Paquetes", "Experiencia", "Contrato"],
+			"sinonimos": ["Contar","Paquetes"],
+			"related_question": ["¿Cuáles son sus áreas de conocimiento?", "¿Qué les hace diferente a los demás?"]
+		},
+		{
+			"question": "¿Cuáles son sus áreas de conocimiento?",
+			"answer": "Entre las áreas tecnológicas que podemos trabajar, podemos enumerar: Data Science y aprendizaje automático, pruebas unitarias, desarrollo de plataformas, microservicios, diseño de producto, desarrollo frontend, estrategia de producto e internet de las cosas. ",
+			"context": ["Contrato","Experiencia"],
+			"sinonimos": ["Enfoque","Rubro", "Mercado"],
+			"related_question": ["¿Qué tecnologías manejan al momento de trabajar una página web?","¿Mi página web puede tener un sistema de reservas?"]
+		},
+		{
+			"question": "¿Existen algunas empresas que han contado con sus servicios?",
+			"answer": "Si, tenemos experiencia en distintos sistemas para empresas reconocidas como Heineken, Implosa, DuraQuant, entre otras. En nuestra página web puede encontrar mayores detalles sobre los sistemas implementados en esos casos de éxitos.",
+			"context": ["Contrato","Experiencia"],
+			"sinonimos": ["Productos","Paquetes", "Contratado"],
+			"related_question": ["¿Trabajan para un tipo de industria en específico?"]
+		},
+		{
+			"question": "¿Trabajan para un tipo de industria en específico?",
+			"answer": "No necesariamente. Tenemos distintas industrias con diferentes mercados, entre las cuales podemos mencionar las industrias de salud, automotriz, banca y finanzas, inmobiliaria, telecomunicaciones y otros.",
+			"context": ["Contrato","Empresas"],
+			"synonyms": ["Empresa", "Diseñado"],
+			"related_question": ["¿Existen algunas empresas que han contado con sus servicios?","¿Cuáles son sus áreas de conocimiento?"]
+		},
+		{
+			"question": "¿Qué les hace diferente a los demás?",
+			"answer": "Siempre entregamos resultados de alta calidad alineados con los estándares más altos de la industria, además, tenemos una gestión de proyectos basada en metodologías ágiles gracias a un equipo de desarrolladores y diseñadores experimentados en las distintas áreas de trabajo.",
+			"context": ["Productos","Competencia"],
+			"synonyms": ["mejor","competencia"],
+			"related_question": ["¿Cuáles son sus áreas de conocimiento?","¿Por qué debería contratar sus servicios?"]
+		},
+		{
+			"question": "¿Dónde están ubicados?",
+			"answer": "Tenemos oficinas en tres países, en Panamá, Colombia y USA. Nuestro número telefónico es + 507 2099002 para Panamá. ",
+			"context": ["Informacion","Contrato"],
+			"synonyms": ["Localizados","Encuentran"]
+		},
+		{
+			"question": "¿Ofrecen servicios de alojamiento web?",
+			"answer": "Si, tenemos años de experiencia en el mercado, ofreciendo servicios de web hosting de alta calidad a nuestros clientes alrededor del mundo.",
+			"context": ["Informacion","Paquetes"],
+			"synonyms": ["sitio web","facilidades"],
+			"related_question": ["Necesito desarrollar un sitio web","¿Qué tecnologías manejan al momento de trabajar una página web?","¿Qué paquetes tienen para webs?"]
+		},
+		{
+			"question": "Necesito desarrollar un sitio web",
+			"answer": "Nosotros podemos ayudarte con el desarrollo de un sitio web acorde a tus necesidades empresariales o personales. Esto lo realizamos mediante el estudio de cada caso y sus necesidades y posibles opciones.",
+			"context": ["Paquetes","Informacion"],
+			"synonyms": ["hacer","solicito", "quiero"],
+			"related_question": ["¿Tienen servicios de mercadeo por correo electrónico?","¿Qué paquetes tienen para webs?"]
+		},
+		{
+			"question": "Busco un software que ayude a mi empresa a realizar una tarea en específico.",
+			"answer": "Actualmente existen softwares de distintas tipologías, estamos preparados para brindarte aquel tipo de software que más se adapte a tu empresa. Podemos diseñar una solución de software para sus sistemas y clientes. Nuestro equipo diseña, desarrolla e implementa software personalizado y plug-ins, que ayudan a nuestros clientes a lanzar nuevos emprendimientos en línea.",
+			"context": ["Informacion","Paquetes", "Funciones"],
+			"synonyms": ["Negocio","Funcion"],
+			"related_question": ["¿Qué paquetes tienen para webs?","Necesito desarrollar un sitio web"]
+		},
+		{
+			"question": "¿Tienen servicios de mercadeo por correo electrónico?",
+			"answer": "Te brindamos rapidez y entrega a un precio accesible. Lograrás alcanzar tus objetivos de marketing con una automatización de correo electrónico escalable y personalizada.",
+			"context": ["Informacion","Funciones"],
+			"synonyms": ["Funciones","email", "contacto"],
+			"related_question": ["Necesito desarrollar un sitio web","¿Mi página web puede tener un sistema de reservas?"]
+		},
+		{
+			"question": "¿Qué tecnologías manejan al momento de trabajar una página web?",
+			"answer": "Manejamos tecnologías que vayan acorde a las necesidades de nuestro cliente. Comunmente trabajamos con javascript, css y html. Para la comunicación con el sitio webs y los datos utilizamos PHP y en ocasiones Python",
+			"context": ["Funciones","Contrato"],
+			"synonyms": ["Funcionalidades","Web"],
+			"related_question": ["¿Cuáles son sus áreas de conocimiento?"]
+		},
+		{
+			"question": "¿Cuánto tiempo tomaría hacer mi página web?",
+			"answer": "La creación de tu página web varía segun las funcionalidades que deseas incorporar. Una página que solo muestra información como blogs y fotografias puede tomar un mes y medio. En cambio, las webs que realizan reservas o que deben tener una interacción cliente - web puede tomar entre 2 a 3 meses",
+			"context": ["Duracion","Informacion"],
+			"synonyms": ["demora","duracion"],
+			"related_question": ["¿Por qué debería contratar sus servicios?","¿Qué les hace diferente a los demás?", "¿Cuánto tiempo demoran haciendo mi página web después de haberles entregado toda mi info?"]
+		},
+		{
+			"question": "Si luego de tener mi página web ya creada, surge algún problema, ¿Podrían ayudarme con ello?",
+			"answer": "Nuestras páginas webs estan diseñadas para ser autónomas y que a largo plazo puedan funcionar sin ningun problema. En caso de encontrar algún percanse o error, sin duda puedes contactarte con nosotros y lo trabajaremos",
+			"context": ["Problema","Contrato"],
+			"synonyms": ["mantenimiento","errores", "bug"]
+		},
+		{
+			"question": "Quiero tener un dominio propio.",
+			"answer": "Ofrecemos la posibilidad de que puedas alojar tu página web en un dominio .com o cual sea que sea tu necesidad. Tenemos los host más seguros y viables a largo plazo",
+			"context": ["dominio"],
+			"synonyms": ["web dominio",".com", ".net"],
+			"related_question": ["¿Qué tecnologías manejan al momento de trabajar una página web?"]
+		},
+		{
+			"question": "¿Cómo es el proceso de mi diseño web?",
+			"answer": "Solicitaremos información de lo que deseas plasmar en tu página web según tu rubro. Podemos darte sugerencias, pero en caso de que ya tengas un diseño en específico, atenderemos a tus indicaciones",
+			"context": ["Informacion","Duracion"],
+			"synonyms": ["pasos","metodologia"],
+			"related_question": ["Necesito desarrollar un sitio web","¿Cuánto tiempo demoran haciendo mi página web después de haberles entregado toda mi info?"]
+		},
+		{
+			"question": "¿Tambien hacen logos para mi página web?",
+			"answer": "No realizamos diseños de marca, nos enfocamos específicamente en el diseño de la página web. Logos, vectores y paletas de colores de la marca no estan incluidos en nuestros planes",
+			"synonyms": ["diseño"]
+		},
+		{
+			"question": "¿Cuánto tiempo demoran haciendo mi página web después de haberles entregado toda mi info?",
+			"answer": "Un tiempo aproximado de 2 a 3 meses promedio, segun tus funcionalidades a incluir",
+			"context": ["Duracion","Informacion"],
+			"synonyms": ["tardaria","demora"],
+			"related_question": ["¿Cuánto tiempo tomaría hacer mi página web?"]
+		},
+		{
+			"question": "¿Mi página web puede tener un sistema de reservas?",
+			"answer": "Claro, ofrecemos distintas funcionalidades para tu página web segun lo que desees incorporar. Desde reservas, formularios y ubicaciones.",
+			"context": ["Funciones","Informacion"],
+			"synonyms": ["reservaciones","sitio web"],
+			"related_question": ["¿Qué paquetes tienen para webs?","¿Qué tecnologías manejan al momento de trabajar una página web?"]
+		},
+		{
+			"question": "¿Qué funciones pueden agregarles a mi página web?",
+			"answer": "Tu página web puede tener funcionalidades como: Reservas, exposicion de imágenes y videos, formularios, foro de opiniones, chats, pestañas de contenido, y muchas otras más",
+			"context": ["Funciones","Informacion"],
+			"synonyms": ["Herramientas","Sitio Web"],
+			"related_question": ["¿Tienen servicios de mercadeo por correo electrónico?","¿Qué paquetes tienen para webs?"]
+		},
+		{
+			"question": "¿Incluyen posicionamiento en google de mi página?",
+			"answer": "Todos nuestros paquetes incluyen posicionamiento web. Sin embargo, entre mejor sea el paquete que eliges, más posibilidad tienes de posicionar tu página web hacia tus clientes potenciales",
+			"context": ["Funciones"],
+			"synonyms": ["Sitio web"],
+			"related_question": ["",""]
+		},
+		{
+			"question": "¿Qué paquetes tienen para webs?",
+			"answer": "Tenemos tres paquetes creados: Basico, plus y pro. Puedes consultar en este chat detalles sobre cada uno. Si quieres un plan personalizado también podemos crearlo para tí",
+			"context": ["Paquetes","Informacion"],
+			"synonyms": ["Funcionalidades","Sitio web"],
+			"related_question": ["¿Tienen servicios de mercadeo por correo electrónico?","¿Qué incluye el paquete básico?"]
+		},
+		{
+			"question": "¿Qué incluye el paquete básico?",
+			"answer": "El paquete básico incluye 6 secciones internas (home, quienes somos, servicios, etc). Optimización básica, imágenes basicas freepik y funcionalidades varias",
+			"context": ["Paquetes","Funciones", "Informacion"],
+			"synonyms": ["Herramientas","normal"],
+			"related_question": ["¿Qué paquetes tienen para webs?","¿Qué incluye el paquete plus?", "¿Qué incluye el paquete pro?"]
+		},
+		{
+			"question": "¿Qué incluye el paquete plus?",
+			"answer": "El paquete básico incluye 10 secciones internas (home, quienes somos, servicios, etc). Optimización media, imágenes basicas y premium freepik y funcionalidades varias",
+			"context": ["Paquetes","Funciones", "Informacion"],
+			"synonyms": ["Herramientas","Medio"],
+			"related_question": ["¿Qué incluye el paquete básico?","¿Qué paquetes tienen para webs?", "¿Qué incluye el paquete plus?"]
+		},
+		{
+			"question": "¿Que incluye el paquete pro?",
+			"answer": "El paquete básico incluye 15 secciones internas (home, quienes somos, servicios, etc). Optimización básica, imágenes basicas y premium freepik (incluimos tambien videos) y funcionalidades varias",
+			"context": ["Paquetes","Funciones", "Informacion"],
+			"synonyms": ["Herramientas","Mejor"],
+			"related_question": ["¿Qué incluye el paquete básico?","¿Qué paquetes tienen para webs?", "¿Qué incluye el paquete plus?"]
+		}
+
+	]
+}
