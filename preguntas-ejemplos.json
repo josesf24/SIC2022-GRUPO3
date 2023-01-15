@@ -1,0 +1,17 @@
+{
+    "data":
+    [
+        {
+            "question": "¿Por qué debería contratar sus servicios?",
+            "answer": "Contamos con más de 10 años de experiencia entregando soluciones tecnológicas únicas en todas las industrias y áreas de desarrollo. Nos enfocamos especialmente en generar resultados asombrosos en 10 áreas principales de desarrollo pero podemos brindar experiencias personalizadas  sin importar sus requisitos tecnológicos.",
+            "related_question": ["¿Qué experiencia tiene su empresa en el campo tecnológico?", "¿Cómo se diferencian de sus competidores en el mercado?"],
+            "context": ["Soluciones tecnológicas", "Experiencia de más de 10 años"]
+        },
+        {
+            "question": "¿Cuáles son sus áreas de conocimiento?",
+            "answer": "Entre las áreas tecnológicas que podemos trabajar, podemos enumerar: Data Science y aprendizaje automático, pruebas unitarias, desarrollo de plataformas, microservicios, diseño de producto, desarrollo frontend, estrategia de producto e internet de las cosas.",
+            "synonyms": ["conocimiento", "expertise", "especialidad"],
+            "context": ["Áreas tecnológicas", "Desarrollo de software"]
+        }
+    ]
+}
